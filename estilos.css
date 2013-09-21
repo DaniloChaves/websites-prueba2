@@ -5,18 +5,20 @@
 	font-weight: bold;
 	background-color: #E3F0FB;
 	border-radius: 4px;
+	/* esto es un comentario 
+	multilineas */
 	padding: 10px;
 	text-align: center;
 }
 .buttonStyle {
-	border-radius: 4px;
+	border-radius: 8px;
 	border: thin solid #F0E020;
 	padding: 5px;
 	background-color: #F8F094;
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 	font-weight: bold;
 	color: #663300;
-	width: 75px;
+	width: 175px;
 }
 .buttonStyle:hover {
 	border: thin solid #FFCC00;
