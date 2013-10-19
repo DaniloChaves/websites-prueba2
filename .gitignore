@@ -1,1 +1,7 @@
 indice.php
+*.jpg
+*.png
+*.gif
+*.jpeg
+images
+images/
